@@ -1,0 +1,1317 @@
+
+@media (min-width:320px ) and (max-width: 449.9px){
+       
+
+           .container {
+   
+    width: 80%;
+}
+
+	header{
+		background-position: left;
+	}
+	header nav .navbar-brand img{
+		width: 80px;
+	}
+	header nav .navbar-nav li a{
+		font-size: 15px;
+		display: inline-block;
+	}
+	.navbar-collapse {
+		padding-top: 30px;
+            background-color: #4a4444;
+	}
+	header nav .navbar-nav li a.down {
+    padding: 6px 10px!important;
+    background-color: #00c0ff;
+    border-radius: 3px;
+}
+header .hero-section {
+    padding-top: 0px;
+}
+header .hero-section .hero h1 {
+    font-size: 45px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 57px;
+    color: white;
+    padding-top: 25px;
+    margin-bottom: 12px;
+}
+header .hero-section .hero a {
+    border-radius: 5px;
+    padding: 7px 14px;
+    font-family: 'Open Sans', sans-serif;
+    display: inline-block;
+    font-size: 16px;
+}
+.image-section .image {
+    text-align: center;
+    padding-bottom: 15px;
+}
+.platform-section h1 {
+  
+    font-size: 45px;
+    margin-bottom: 15px;
+}
+.platform-section {
+    padding: 50px 0px;
+}
+.platform-section p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 25px;
+    color: #878991;
+    margin-bottom: 21px;
+}
+.auto-section .auto h2,.autoo-section .auto h2 {
+    font-size: 12px;
+    font-weight: 700;
+    color: #4fa5fa;
+    font-family: 'Open Sans', sans-serif;
+    display: block;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.auto-section {
+    padding: 0px 0px;
+}
+.auto-section .auto h1,.autoo-section .auto h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #30323d;
+    font-size: 33px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 0;
+}
+.auto-section .auto p,.autoo-section .auto p {
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 30px;
+    color: #878991;
+    margin: 8px 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+.auto-section .special .img1 {
+   display: none;
+}
+.auto-section .auto a {
+    border-radius: 5px;
+    padding: 7px 15px;
+
+    font-size: 16px;
+  
+    margin-bottom: 35px;
+  
+}
+.autoo-section .pad2 {
+    padding: 56px 0px 21px 0px;
+}
+.review-section {
+   
+    padding: 50px 0px;
+}
+.review-section h1 {
+    font-size: 42px;
+
+    margin-bottom: 15px;
+  
+    font-weight: 700;
+}
+.review-section p {
+    font-size: 15px;
+    color: white;
+    margin-bottom: 26px;
+    line-height: 21px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+.review-section .nidhi .nasi {
+	margin-right: 2px;
+}
+.review-section .nidhi .nasi h3 {
+	font-size:15px;
+	line-height: 21px;
+	margin-bottom: 10px;
+}
+.review-section .nidhi .nasi h2 {
+	font-size:16px;
+	line-height: 21px;
+	margin-bottom: 03px;
+}
+.review-section .nidhi .nasi h4 {
+	font-size:15px;
+
+	margin-bottom: 03px;
+}
+.aut-section .auto p {
+ 
+    margin: 18px 0px;
+   
+}
+
+.aut-section .auto h1 {
+    line-height: 1.1; 
+}
+.aut-section .auto {
+    padding: 1% 0%;
+}
+.price-section {
+   
+    padding: 40px 0px;
+}
+.price-section h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #30323d;
+    margin-top: 0px;
+    font-style: normal;
+    font-size: 45px;
+    line-height: 53px;
+    font-weight: 600;
+    margin-bottom: 13px;
+}
+.price-section p {
+    font-weight: normal;
+    line-height: 22px;
+    color: #878991;
+    margin-bottom: 18px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 0px;
+    font-style: normal;
+    font-size: 16px;
+}
+.price-section .price {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 10px 0px 20px 0px;
+    transition: .3s ease-in-out;
+    margin-bottom: 10px;
+}
+.price-section .price h3 {
+    font-size: 45px;
+    margin-bottom: 12px;
+}
+.price-section .price button {
+    cursor: pointer;
+    padding: 9px 17px;
+    background: #00c0ff;
+    position: relative;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: 20px;
+    border: none;
+    text-align: center;
+    text-transform: capitalize;
+    border-radius: 5px;
+    z-index: 1;
+}
+.faq-section {
+    padding: 30px 0px;
+}
+.faq-section h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #30323d;
+    margin-top: 0px;
+    font-style: normal;
+    font-size: 45px;
+    line-height: 51px;
+    font-weight: 600;
+    margin-bottom: 7px;
+}
+.faq-section p {
+    font-weight: normal;
+    line-height: 22px;
+    color: #878991;
+    margin-bottom: 25px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 0px;
+    font-style: normal;
+    font-size: 16px;
+}
+
+footer{
+    background-image:linear-gradient(-54deg,#1f585994,#312c37) ;
+    background-image:-webkit-linear-gradient(-54deg,#1f585994,#312c37) ;
+    background-image:-moz-linear-gradient(-54deg,#1f585994,#312c37) ;
+   padding: 0px 0px 6px 0px;
+}
+footer .pad-l{
+    padding-left: 0px!important;
+}
+footer .pad{
+    padding-left: 0;
+}
+footer .fot{
+    text-align: center;
+}
+footer .foot h1 {
+    font-size: 30px;
+    color: white;
+}
+footer .foot p {
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 21px;
+    color: #878991;
+    color: white;
+}
+footer .foot h2 {
+    font-family: 'Open Sans', sans-serif;
+    color: #30323d;
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    color: white;
+}
+footer .foot ul li {
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 21px;
+    color: #878991;
+    color: white;
+}
+footer span {
+    display: block;
+    background-color: #dddee3;
+    width: 100%;
+    height: 1px;
+    margin: 0px 0px 3px 0px;
+}
+footer p {
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 19px;
+    color: #878991;
+    color: white;
+}
+
+
+
+
+
+
+
+
+}
+
+@media (min-width:450px ) and (max-width: 575.9px){
+
+		
+      .container {
+   
+    width: 80%;
+}
+
+        header{
+		background-position: left;
+	}
+	header nav .navbar-brand img{
+		width: 80px;
+	}
+	header nav .navbar-nav li a{
+		font-size: 15px;
+		display: inline-block;
+	}
+	.navbar-collapse {
+		padding-top: 30px;
+            background-color: #4a4444;
+	}
+	header nav .navbar-nav li a.down {
+    padding: 6px 10px!important;
+    background-color: #00c0ff;
+    border-radius: 3px;
+}
+header .hero-section {
+    padding-top: 0px;
+}
+header .hero-section .hero h1 {
+    font-size: 45px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 57px;
+    color: white;
+    padding-top: 25px;
+    margin-bottom: 12px;
+}
+header .hero-section .hero a {
+    border-radius: 5px;
+    padding: 7px 14px;
+    font-family: 'Open Sans', sans-serif;
+    display: inline-block;
+    font-size: 16px;
+}
+.image-section .image {
+    text-align: center;
+    padding-bottom: 15px;
+}
+.platform-section h1 {
+  
+    font-size: 45px;
+    margin-bottom: 15px;
+}
+.platform-section {
+    padding: 50px 0px;
+}
+.platform-section p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 25px;
+    color: #878991;
+    margin-bottom: 21px;
+}
+.auto-section .auto h2,.autoo-section .auto h2 {
+    font-size: 12px;
+    font-weight: 700;
+    color: #4fa5fa;
+    font-family: 'Open Sans', sans-serif;
+    display: block;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.auto-section,.autoo-section {
+    padding: 30px 0px;
+}
+.auto-section .auto h1,.autoo-section .auto h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #30323d;
+    font-size: 33px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 0;
+}
+.auto-section .auto p,.auto-section .auto p {
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 30px;
+    color: #878991;
+    margin: 8px 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+.auto-section .special .img1 {
+   display: none;
+}
+.auto-section .auto a {
+    border-radius: 5px;
+    padding: 7px 15px;
+
+    font-size: 16px;
+  
+    margin-bottom: 35px;
+  
+}
+.autoo-section .pad2 {
+    padding: 56px 0px 21px 0px;
+}
+.review-section {
+   
+    padding: 50px 0px;
+}
+.review-section h1 {
+    font-size: 42px;
+
+    margin-bottom: 15px;
+  
+    font-weight: 700;
+}
+.review-section p {
+    font-size: 15px;
+    color: white;
+    margin-bottom: 26px;
+    line-height: 21px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+.review-section .nidhi .nasi {
+	margin-right: 2px;
+}
+.review-section .nidhi .nasi h3 {
+	font-size:15px;
+	line-height: 21px;
+	margin-bottom: 10px;
+}
+.review-section .nidhi .nasi h2 {
+	font-size:16px;
+	line-height: 21px;
+	margin-bottom: 03px;
+}
+.review-section .nidhi .nasi h4 {
+	font-size:15px;
+
+	margin-bottom: 03px;
+}
+
+.aut-section .auto p {
+ 
+    margin: 18px 0px;
+   
+}
+
+.aut-section .auto h1 {
+    line-height: 1.1; 
+}
+.aut-section .auto {
+    padding: 1% 0%;
+}
+
+
+.price-section {
+   
+    padding: 40px 0px;
+}
+.price-section h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #30323d;
+    margin-top: 0px;
+    font-style: normal;
+    font-size: 45px;
+    line-height: 53px;
+    font-weight: 600;
+    margin-bottom: 13px;
+}
+.price-section p {
+    font-weight: normal;
+    line-height: 22px;
+    color: #878991;
+    margin-bottom: 18px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 0px;
+    font-style: normal;
+    font-size: 16px;
+}
+.price-section .price {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 10px 0px 20px 0px;
+    transition: .3s ease-in-out;
+    margin-bottom: 10px;
+}
+.price-section .price h2 {
+    font-size: 17px;
+  
+}
+.price-section .price h4 {
+
+    font-size: 13px;
+
+}
+
+.price-section .price h3 {
+    font-size: 45px;
+    margin-bottom: 12px;
+}
+.price-section .price button {
+    cursor: pointer;
+    padding: 9px 17px;
+    background: #00c0ff;
+    position: relative;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: 20px;
+    border: none;
+    text-align: center;
+    text-transform: capitalize;
+    border-radius: 5px;
+    z-index: 1;
+}
+.faq-section {
+    padding: 30px 0px;
+}
+.faq-section h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #30323d;
+    margin-top: 0px;
+    font-style: normal;
+    font-size: 45px;
+    line-height: 51px;
+    font-weight: 600;
+    margin-bottom: 7px;
+}
+.faq-section p {
+    font-weight: normal;
+    line-height: 22px;
+    color: #878991;
+    margin-bottom: 25px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 0px;
+    font-style: normal;
+    font-size: 16px;
+}
+
+footer{
+    background-image:linear-gradient(-54deg,#1f585994,#312c37) ;
+    background-image:-webkit-linear-gradient(-54deg,#1f585994,#312c37) ;
+    background-image:-moz-linear-gradient(-54deg,#1f585994,#312c37) ;
+    padding: 0px 0px 6px 0px;
+}
+footer .pad-l{
+    padding-left: 0px!important;
+}
+footer .pad{
+    padding-left: 0;
+}
+footer .fot{
+    text-align: center;
+}
+footer .foot h1 {
+    font-size: 30px;
+    color: white;
+}
+footer .foot p {
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 21px;
+    color: #878991;
+    color: white;
+}
+footer .foot h2 {
+    font-family: 'Open Sans', sans-serif;
+    color: #30323d;
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    color: white;
+}
+footer .foot ul li {
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 21px;
+    color: #878991;
+    color: white;
+}
+footer span {
+    display: block;
+    background-color: #dddee3;
+    width: 100%;
+    height: 1px;
+    margin: 0px 0px 3px 0px;
+}
+footer p {
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 19px;
+    color: #878991;
+    color: white;
+}
+
+	
+}
+@media (min-width:576px ) and (max-width: 767.9px){
+
+
+	
+	header nav .navbar-brand img{
+		width: 80px;
+	}
+	header nav .navbar-nav li a{
+		font-size: 15px;
+		display: inline-block;
+	}
+	.navbar-collapse {
+		padding-top: 30px;
+	}
+	header nav .navbar-nav li a.down {
+    padding: 6px 10px!important;
+    background-color: #00c0ff;
+    border-radius: 3px;
+}
+header .hero-section {
+    padding-top: 0px;
+}
+header .hero-section .hero h1 {
+        font-size: 35px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 43px;
+    color: white;
+    padding-top: 28px;
+    margin-bottom: 7px;
+}
+header .hero-section .hero a {
+    border-radius: 5px;
+    padding: 7px 14px;
+    font-family: 'Open Sans', sans-serif;
+    display: inline-block;
+    font-size: 16px;
+}
+header .hero-section .hero p {
+    font-size: 17px;
+    color: #fff;
+    line-height: 22px;
+    margin-bottom: 11px;
+    font-family: 'Roboto', sans-serif;
+}
+.container {
+    max-width: 738px;
+}
+.image-section .image img {
+    opacity: 0.5;
+    transition-duration: 0.3s;
+    width: 125px;
+}
+.image-section .image {
+    text-align: center;
+    padding-bottom: 15px;
+}
+.platform-section h1 {
+  
+    font-size: 45px;
+    margin-bottom: 15px;
+}
+.platform-section {
+    padding: 50px 0px;
+}
+.platform-section p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 25px;
+    color: #878991;
+    margin-bottom: 21px;
+}
+.auto-section .auto h2,.autoo-section .auto h2 {
+    font-size: 12px;
+    font-weight: 700;
+    color: #4fa5fa;
+    font-family: 'Open Sans', sans-serif;
+    display: block;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.auto-section,.autoo-section {
+    padding: 43px 0px;
+}
+.auto-section .auto h1,.autoo-section .auto h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #30323d;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 0;
+}
+.auto-section .auto p,.autoo-section .auto p {
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 23px;
+    color: #878991;
+    margin: 8px 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+.auto-section .special .img1 {
+  display: none;
+}
+.auto-section .auto a {
+    border-radius: 5px;
+    padding: 7px 15px;
+
+    font-size: 16px;
+  
+    margin-bottom: 35px;
+  
+}
+.autoo-section .pad2 {
+    padding: 56px 0px 21px 0px;
+}
+.autoo-section .pad1 {
+    padding: 80px 30px 50px 0px;
+}
+.review-section {
+   
+    padding: 50px 0px;
+}
+.review-section h1 {
+    font-size: 42px;
+
+    margin-bottom: 15px;
+  
+    font-weight: 700;
+}
+.review-section p {
+    font-size: 15px;
+    color: white;
+    margin-bottom: 26px;
+    line-height: 21px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+.review-section .nidhi .nasi {
+	margin-right: 2px;
+}
+.review-section .nidhi .nasi h3 {
+	font-size:15px;
+	line-height: 21px;
+	margin-bottom: 10px;
+}
+.review-section .nidhi .nasi h2 {
+	font-size:16px;
+	line-height: 21px;
+	margin-bottom: 03px;
+}
+.review-section .nidhi .nasi h4 {
+	font-size:15px;
+
+	margin-bottom: 03px;
+}
+
+.aut-section .auto p {
+ 
+    margin: 18px 0px;
+    font-size: 14px;
+   
+    line-height: 23px;
+   
+}
+
+.aut-section .auto h1 {
+    line-height: 1.1; 
+    font-size: 30px;
+}
+.price-section {
+   
+    padding: 40px 0px;
+}
+.price-section h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #30323d;
+    margin-top: 0px;
+    font-style: normal;
+    font-size: 45px;
+    line-height: 53px;
+    font-weight: 600;
+    margin-bottom: 13px;
+}
+.price-section p {
+    font-weight: normal;
+    line-height: 22px;
+    color: #878991;
+    margin-bottom: 18px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 0px;
+    font-style: normal;
+    font-size: 16px;
+}
+.price-section .price {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 10px 0px 20px 0px;
+    transition: .3s ease-in-out;
+    margin-bottom: 10px;
+}
+
+.price-section .price h2 {
+    font-size: 17px;
+  
+}
+.price-section .price h4 {
+
+    font-size: 13px;
+
+}
+.price-section .price h3 {
+    font-size: 35px;
+    margin-bottom: 12px;
+}
+.price-section .price button {
+    cursor: pointer;
+    padding: 9px 17px;
+    background: #00c0ff;
+    position: relative;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: 20px;
+    border: none;
+    text-align: center;
+    text-transform: capitalize;
+    border-radius: 5px;
+    z-index: 1;
+}
+.faq-section {
+    padding: 30px 0px;
+}
+.faq-section h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #30323d;
+    margin-top: 0px;
+    font-style: normal;
+    font-size: 45px;
+    line-height: 51px;
+    font-weight: 600;
+    margin-bottom: 7px;
+}
+.faq-section p {
+    font-weight: normal;
+    line-height: 22px;
+    color: #878991;
+    margin-bottom: 25px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 0px;
+    font-style: normal;
+    font-size: 16px;
+}
+footer{
+    background-image:linear-gradient(-54deg,#1f585994,#312c37) ;
+    background-image:-webkit-linear-gradient(-54deg,#1f585994,#312c37) ;
+    background-image:-moz-linear-gradient(-54deg,#1f585994,#312c37) ;
+    padding: 0px 0px 6px 0px;
+}
+footer .container{
+    width:80% ;
+}
+footer .pad-l{
+    padding-left: 0px!important;
+}
+footer .pad{
+    padding-left: 0;
+}
+footer .fot{
+    text-align: center;
+}
+footer .foot h1 {
+    font-size: 35px;
+    color: white;
+}
+footer .foot p {
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 21px;
+    color: #878991;
+    color: white;
+}
+footer .foot h2 {
+    font-family: 'Open Sans', sans-serif;
+    color: #30323d;
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    color: white;
+}
+footer .foot ul li {
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 21px;
+    color: #878991;
+    color: white;
+}
+footer span {
+    display: block;
+    background-color: #dddee3;
+    width: 100%;
+    height: 1px;
+    margin: 0px 0px 3px 0px;
+}
+footer p {
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 16px;
+    color: #878991;
+    color: white;
+}
+
+	
+}
+@media (min-width:768px ) and (max-width: 991.9px){
+
+
+	header nav .navbar-brand img{
+		width: 100px;
+	}
+	header nav .navbar-nav li a{
+		font-size: 15px;
+		display: inline-block;
+	}
+	.navbar-collapse {
+		padding-top: 30px;
+	}
+	header nav .navbar-nav li a.down {
+    padding: 6px 10px!important;
+    background-color: #00c0ff;
+    border-radius: 3px;
+}
+header .hero-section {
+    padding-top: 60px;
+}
+header .hero-section .hero h1 {
+        font-size: 39px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 47px;
+    color: white;
+    padding-top: 28px;
+    margin-bottom: 15px;
+}
+header .hero-section .hero a {
+    border-radius: 5px;
+    padding: 12px 17px;
+    font-family: 'Open Sans', sans-serif;
+    display: inline-block;
+    font-size: 17px;
+}
+header .hero-section .hero p {
+    font-size: 17px;
+    color: #fff;
+    line-height: 22px;
+    margin-bottom: 11px;
+    font-family: 'Roboto', sans-serif;
+}
+.container {
+    max-width: 738px;
+}
+.image-section .image img {
+    opacity: 0.5;
+    transition-duration: 0.3s;
+    width: 140px;
+}
+
+.image-section .image {
+    text-align: center;
+    padding-bottom: 15px;
+}
+.platform-section h1 {
+  
+    font-size: 45px;
+    margin-bottom: 15px;
+}
+.platform-section {
+    padding: 50px 0px;
+}
+.platform-section p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 25px;
+    color: #878991;
+    margin-bottom: 21px;
+}
+.auto-section .auto h2,.autoo-section .auto h2 {
+    font-size: 12px;
+    font-weight: 700;
+    color: #4fa5fa;
+    font-family: 'Open Sans', sans-serif;
+    display: block;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.auto-section .special .img1 {
+    position: absolute;
+    bottom: 94px;
+    right: -70px;
+    box-shadow: 13px 39px 51px #52575c;
+    border-radius: 10px;
+}
+.auto-section,.autoo-section {
+    padding: 43px 0px;
+}
+.auto-section .auto h1,.autoo-section .auto h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #30323d;
+    font-size: 33px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 0;
+}
+.auto-section .auto p,.autoo-section .auto p {
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 30px;
+    color: #878991;
+    margin: 8px 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+.auto-section .special .img1 {
+  
+}
+.auto-section .auto a {
+      border-radius: 5px;
+    padding: 13px 20px;
+    font-size: 16px;
+    margin-bottom: 35px;
+  
+}
+.autoo-section .pad2 {
+    padding: 56px 0px 21px 0px;
+}
+.autoo-section .pad1 {
+    padding: 70px 30px 50px 0px;
+}
+.review-section {
+   
+    padding: 50px 0px;
+}
+.review-section h1 {
+    font-size: 42px;
+
+    margin-bottom: 15px;
+  
+    font-weight: 700;
+}
+.review-section p {
+    font-size: 15px;
+    color: white;
+    margin-bottom: 26px;
+    line-height: 21px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+.review-section .nidhi .nasi {
+	margin-right: 10px;
+}
+.review-section .nidhi .nasi h3 {
+	font-size:15px;
+	line-height: 21px;
+	margin-bottom: 10px;
+}
+.review-section .nidhi .nasi h2 {
+	font-size:16px;
+	line-height: 21px;
+	margin-bottom: 03px;
+}
+.review-section .nidhi .nasi h4 {
+	font-size:15px;
+
+	margin-bottom: 03px;
+}
+     
+
+.aut-section .auto p {
+ 
+    margin: 18px 0px;
+   
+}
+
+.aut-section .auto h1 {
+    line-height: 1.1; 
+}
+ 
+
+
+
+
+.price-section {
+   
+    padding: 40px 0px;
+}
+.price-section h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #30323d;
+    margin-top: 0px;
+    font-style: normal;
+    font-size: 45px;
+    line-height: 53px;
+    font-weight: 600;
+    margin-bottom: 13px;
+}
+.price-section p {
+    font-weight: normal;
+    line-height: 22px;
+    color: #878991;
+    margin-bottom: 18px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 0px;
+    font-style: normal;
+    font-size: 16px;
+}
+.price-section .price {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 10px 0px 20px 0px;
+    transition: .3s ease-in-out;
+    margin-bottom: 10px;
+}
+
+.price-section .price h2 {
+    font-size: 17px;
+  
+}
+.price-section .price h4 {
+
+    font-size: 13px;
+
+}
+.price-section .price h3 {
+    font-size: 35px;
+    margin-bottom: 12px;
+}
+.price-section .price button {
+    cursor: pointer;
+    padding: 9px 17px;
+    background: #00c0ff;
+    position: relative;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: 20px;
+    border: none;
+    text-align: center;
+    text-transform: capitalize;
+    border-radius: 5px;
+    z-index: 1;
+}
+.faq-section {
+    padding: 30px 0px;
+}
+.faq-section h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #30323d;
+    margin-top: 0px;
+    font-style: normal;
+    font-size: 45px;
+    line-height: 51px;
+    font-weight: 600;
+    margin-bottom: 7px;
+}
+.faq-section p {
+    font-weight: normal;
+    line-height: 22px;
+    color: #878991;
+    margin-bottom: 25px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 0px;
+    font-style: normal;
+    font-size: 16px;
+}
+footer{
+    background-image:linear-gradient(-54deg,#1f585994,#312c37) ;
+    background-image:-webkit-linear-gradient(-54deg,#1f585994,#312c37) ;
+    background-image:-moz-linear-gradient(-54deg,#1f585994,#312c37) ;
+    padding: 34px 0px 6px 0px;
+}
+footer .foot h1 {
+    font-size: 35px;
+    color: white;
+}
+footer .foot p {
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 21px;
+    color: #878991;
+    color: white;
+}
+footer .foot h2 {
+    font-family: 'Open Sans', sans-serif;
+    color: #30323d;
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    color: white;
+}
+footer .foot ul li {
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 21px;
+    color: #878991;
+    color: white;
+}
+footer span {
+    display: block;
+    background-color: #dddee3;
+    width: 100%;
+    height: 1px;
+    margin: 0px 0px 3px 0px;
+}
+footer p {
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 16px;
+    color: #878991;
+    color: white;
+}
+
+	
+}
+@media (min-width:992px ) and (max-width: 1199.9px){
+	header .hero-section {
+    padding-top: 51px;
+}
+header .hero-section .hero h1 {
+    font-size: 50px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 66px;
+    color: white;
+    padding-top: 20px;
+    margin-bottom: 5px;
+}
+header .hero-section .hero p {
+    font-size: 20px;
+    color: #fff;
+    line-height: 1.8;
+    margin-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+.platform-section h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #30323d;
+    margin-top: 0px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 55px;
+    margin-bottom: 20px;
+}
+.platform-section p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    font-weight: normal;
+    line-height: 24px;
+    color: #878991;
+    margin-bottom: 70px;
+}
+.platform-section .platform h4 {
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 26px;
+    color: #878991;
+    margin-bottom: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+.auto-section .auto a {
+    border-radius: 5px;
+    padding: 15px 25px;
+}
+header nav .navbar-nav li a {
+   
+    font-size: 12px;
+}
+.price-section .price h2 {
+    font-size: 17px;
+  
+}
+.price-section .price h4 {
+
+    font-size: 13px;
+
+}
+
+
+
+
+
+
+}
